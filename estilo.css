@@ -1,0 +1,31 @@
+body{
+    background: #FF8008;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC837, #FF8008);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC837, #FF8008); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#T1{
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+
+#T2{
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+
+#P1{
+    color: black;
+    border-style: groove;
+    border-color: black;
+}
+#P2{
+    color: black;
+    border-style: groove;
+    border-color: black;
+}
